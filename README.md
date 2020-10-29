@@ -1,2 +1,4 @@
 # hello-world
-just have a try
+hi github
+i'm new here.
+please take good care of me.
